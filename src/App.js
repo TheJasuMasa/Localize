@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import LanguageDetector from 'i18next-browser-languagedetector';
 
 function App() {
   return (
